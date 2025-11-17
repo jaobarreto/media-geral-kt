@@ -125,7 +125,7 @@ cd media-geral-kt
    - Conecte um dispositivo ou inicie um emulador
    - Clique em ▶️ Run (Shift+F10)
 
-## 🧪 Exemplos de Uso
+## Exemplos de Uso
 
 ```kotlin
 // Exemplo de dados de entrada:
@@ -148,7 +148,7 @@ TP3: 5.5
 // Resultado: Média 5.00 - Status: Reprovado ❌
 ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 mediageralkt/
@@ -178,7 +178,7 @@ mediageralkt/
 └── README.md
 ```
 
-## 👨‍💻 Autor
+## Autor
 
 **João Barreto**
 - GitHub: [@jaobarreto](https://github.com/jaobarreto)
